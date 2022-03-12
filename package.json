@@ -1,0 +1,22 @@
+{
+  "name": "js-calculator",
+  "version": "1.0.0",
+  "description": "This is one of the projects required by FCC to claim the \"Front End Development Libraries Projects\" certificate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "keywords": [
+    "javascript",
+    "calculator",
+    "react",
+    "FCC",
+    "freecodecamp"
+  ],
+  "author": "LazyNeil",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
